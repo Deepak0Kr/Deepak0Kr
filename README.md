@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in Software DEVELOPMENT
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 Reach me on deepkr1099@gmail.com
 
 <!---
